@@ -22,9 +22,9 @@
 维护时只需更改items4Search/items4Add/columns即可
 
 ## 示例组件介绍
-**ActionBtns**：查询、重置、新增按钮集合
-**FormField**：将多种组件合一，由传入字段控制显示想要的
-**Table**：二次封装的el-table,扩展其功能
-**User**：用户页面，进行增删改查及table显示的入口
-**CRU**：增查改的dialog页面
+**ActionBtns**：查询、重置、新增按钮集合  
+**FormField**：将多种组件合一，由传入字段控制显示想要的  
+**Table**：二次封装的el-table,扩展其功能  
+**User**：用户页面，进行增删改查及table显示的入口  
+**CRU**：增查改的dialog页面  
 
